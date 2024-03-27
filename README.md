@@ -1,4 +1,5 @@
 ## Sistema de Gestão de Estoque para Pequena Empresa
+![banner](https://github.com/EnergyNeumann/Sistema-de-Gestao-de-Estoque-para-Pequena-Empresa/blob/main/banner.jpg)
 Este sistema foi criado para facilitar a gestão de estoque em pequenas empresas. Ele centraliza informações sobre produtos, categorias, movimentações de estoque e  fornecedores, permitindo um controle de estoque eficiente e a manutenção de um registro detalhado das operações. (novas atualizações vindo...)
 
 
