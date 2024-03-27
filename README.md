@@ -41,7 +41,7 @@ Studio Code, etc.).
 
 ### Configuração
 Clone o repositório:
-git clone https://github.com/EnergyNeumann/Sistema-de-Gestao-de-Estoque-para-Pequena-Empresa.git 
+git clone https://github.com/EnergyNeumann/Sistema-de-Gestao-de-Estoque-para-Pequena-Empresa.git
 
 
 ### Uso
