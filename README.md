@@ -11,7 +11,8 @@ nome, descrição, preço de custo, preço de venda e quantidade em estoque.
 #### categorias
 Permite a classificação dos produtos em categorias, facilitando a organização e a 
 busca por itens similares ou relacionados.
-movimentacoes_estoque
+
+#### movimentacoes_estoque
 Registra todas as entradas e saídas do estoque, proporcionando uma visão clara 
 sobre a movimentação dos produtos e auxiliando na previsão de necessidades 
 futuras de compra.
